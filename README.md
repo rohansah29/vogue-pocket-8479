@@ -56,8 +56,8 @@ Rest assured, your data is protected with the highest level of security measures
 
 ## Our Collaborators
 - Krishna Vaishnav (Team lead) - krishnavaishnav125@gmail.com
+- Kumar Rohan - 00rohansah00.kr@gmail.com
 - Mohnish Vishwakarma - mohnish201@gmail.com
-- Rohan Kumar - 00rohansah00.kr@gmail.com
 - Nitesh Chandrakar - niteshchandrakar2@gmail.com
 - Harshit Kumar - harshit007.ara@gmail.com 
 
