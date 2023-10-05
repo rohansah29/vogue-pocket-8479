@@ -37,7 +37,7 @@ Rest assured, your data is protected with the highest level of security measures
 
 # Different Pages of Website
 ### Homepage
-<img src="./src/Images/homepage.png" />
+![mm](https://github.com/KrishnaVaishnav98/vogue-pocket-8479/assets/119648587/103aa658-2d9e-43cc-81b6-7681724fc313)
 
 ### Login
 <img src="./src/Images/login.png" />
